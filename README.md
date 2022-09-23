@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there, I'm Rony Antolinez👋👨🏻‍💻💻
+I am a software developer with 1+ year of experience, creating different solutions through code, always looking to cover every need of the client in an effective way. Passionate about technology, constantly learning, applying good practices in the professional field and in my personal life. Gamer for life, lover of mechanical keyboards and basketball player by passion.
+
+[![Twitter Badge](https://img.shields.io/badge/-@devRony2-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/devRony2)](https://twitter.com/devRony2) [![Linkedin Badge](https://img.shields.io/badge/-ronyabetancourt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ronyabetancourt/)](https://www.linkedin.com/in/ronyabetancourt/) 
+[![GitHub followers](https://img.shields.io/github/followers/devRony1710?label=Follow&style=social)](https://github.com/devRony1710/?tab=follow)
+[![Gmail Badge](https://img.shields.io/badge/-rony1710.dev@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rony1710.dev@gmail.com)](mailto:rony1710.dev@gmail.com)
 
 <!--
 **devRony1710/devRony1710** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
